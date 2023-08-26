@@ -26,5 +26,4 @@
 
 
 
-### Estou a procura da minha primeira oportunidade como dev.
 
